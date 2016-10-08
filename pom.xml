@@ -65,7 +65,7 @@
 </configuration>
 <!--<configuration>...</configuration>-->
 </plugin>
-<plugin>...</plugin>
+<!--<plugin>...</plugin>-->
 </plugins>
 </build>       
 </project>
