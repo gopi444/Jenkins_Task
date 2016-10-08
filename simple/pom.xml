@@ -10,7 +10,7 @@
     <version>0.8-SNAPSHOT</version>
   </parent>
   <artifactId>simple</artifactId>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <name>Simple Chapter Project Example</name>
   <dependencies>
     <dependency>
