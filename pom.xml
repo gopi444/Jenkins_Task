@@ -48,4 +48,25 @@
 </snapshots>
 </pluginRepository>
 </pluginRepositories>
+ <build>        
+   <plugins>      
+<plugin>
+<groupId>org.apache.maven.plugins</groupId>
+<artifactId>maven-war-plugin</artifactId>
+<version>3.0.0</version>
+<configuration>
+<archive>
+<manifest>
+<addClasspath>true</addClasspath>
+</manifest>
+<manifest>...</manifest>
+</archive>
+<archive>...</archive>
+</configuration>
+<!--<configuration>...</configuration>-->
+</plugin>
+<!--<plugin>...</plugin>-->
+</plugins>
+</build>       
 </project>
+
