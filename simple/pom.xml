@@ -42,9 +42,9 @@
 </archive>
 <archive>...</archive>
 </configuration>
-<configuration>...</configuration>
+<!--<configuration>...</configuration>-->
 </plugin>
-<plugin>...</plugin>
+<!--<plugin>...</plugin>-->
     </plugins>
   </build>
 </project>
