@@ -8,7 +8,7 @@
   <artifactId>parent</artifactId>
   <version>0.8-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>Simple Project</name>
+  <name>Simple-Project</name>
   <url>http://sonatype.com/book</url>
   <modules>
     <module>simple</module>
