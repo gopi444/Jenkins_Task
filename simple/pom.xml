@@ -11,7 +11,7 @@
   </parent>
   <artifactId>simple</artifactId>
   <packaging>pom</packaging>
-  <name>Simple Chapter Project Example</name>
+  <name>Simple Chapter-Project Example</name>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
