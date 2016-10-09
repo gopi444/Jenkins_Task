@@ -20,9 +20,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
   <build>
-  <plugins>
-    <plugin>
+    <plugins>
+	 <plugin>
       <groupId>org.jacoco</groupId>
       <artifactId>jacoco-maven-plugin</artifactId>
       <version>0.6.4.201312101107</version>
@@ -42,11 +43,6 @@
         </execution>
       </executions>
     </plugin>
-  </plugins>
-</build>
-
-  <build>
-    <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
